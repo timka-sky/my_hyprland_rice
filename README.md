@@ -2,6 +2,7 @@
 ## Software List
 - **Window Manager:** Hyprland
 - **Terminal:** Alacritty
+- **Shell:** zsh
 - **Launcher:** Fuzzel
 - **Status Bar:** Waybar
 - **File Manager:** Thunar
