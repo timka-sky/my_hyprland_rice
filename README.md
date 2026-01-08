@@ -5,8 +5,7 @@
 - **Launcher:** Fuzzel
 - **Status Bar:** Waybar
 - **File Manager:** Thunar
-- **Wallpapers:** awww
-
+- **Wallpapers:** awww "wallpaper in hypr"
 ## Theming
 - **Global Theme:** Dracula https://www.gnome-look.org/p/1687249
 - **Icons:** Lovely Pink Dark https://www.gnome-look.org/p/1538456
