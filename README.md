@@ -1,7 +1,4 @@
 # My Hyprland Configuration
-
-This is my personal Hyprland dotfiles setup.
-
 ## Software List
 - **Window Manager:** Hyprland
 - **Terminal:** Alacritty
