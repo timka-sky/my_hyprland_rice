@@ -1,0 +1,48 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "JetBrains Mono", "monospace";
+    font-size: 13px;
+}
+
+window#waybar {
+    background-color: #19111b;
+    border: 1px solid #f16d95;
+    color: #f16d95;
+}
+
+#workspaces button {
+    padding: 0 5px;
+    background: transparent;
+    color: #f16d95;
+    border-right: 1px solid #f16d95;
+}
+
+#workspaces button.active {
+    background: #f16d95;
+    color: #19111b;
+}
+
+/* Применяем стиль ко всем блокам справа */
+#language,
+#pulseaudio, 
+#pulseaudio.microphone, 
+#clock {
+    padding: 0 10px;
+    border-left: 1px solid #f16d95; /* Те самые разделители dmenu */
+    color: #f16d95;
+}
+
+#window {
+    padding-left: 0px;
+    color: #bbbbbb;
+}
+
+/* Календарь при наведении */
+tooltip {
+    background: #19111b;
+	border: 1px solid #f16d95;
+}
+tooltip label {
+    color: #f16d95;
+}

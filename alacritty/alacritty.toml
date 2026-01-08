@@ -1,0 +1,5 @@
+# Old (deprecated) format
+[terminal.shell]
+program = "/usr/bin/zsh"
+[colors.primary]
+background = "#19111b"
