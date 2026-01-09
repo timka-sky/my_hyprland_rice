@@ -1,4 +1,10 @@
 # My Hyprland Configuration
+    
+![screen](/screen/20260109_22h17m54s_grim.png)
+![screen](/screen/20260109_22h21m24s_grim.png)
+![screen](/screen/20260109_22h21m37s_grim.png)
+
+
 ## Software List
 - **Window Manager:** Hyprland
 - **Terminal:** Alacritty
