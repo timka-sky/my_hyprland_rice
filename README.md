@@ -8,5 +8,5 @@
 - **File Manager:** Thunar
 - **Wallpapers:** awww "wallpaper in hypr"
 ## Theming
-- **Global Theme:** Dracula https://www.gnome-look.org/p/1687249
+- **Global Theme:** Pink "thank you SanAnder" https://github.com/sanander0/Hyprland-Dark_Pink
 - **Icons:** Lovely Pink Dark https://www.gnome-look.org/p/1538456
